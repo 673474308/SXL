@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/nz/ac/massey/cs/sdc/parserss/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nz/ac/massey/cs/sdc/parserss/Cloud.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nz/ac/massey/cs/sdc/parserss/CloudProtocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/nz/ac/massey/cs/sdc/parserss/ObjectFactory.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
